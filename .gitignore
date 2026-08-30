@@ -36,3 +36,6 @@ __pycache__/
 # Cargo.lock — keep for binaries, remove for libraries
 # (this is a library crate, so omit Cargo.lock from VCS)
 Cargo.lock
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
